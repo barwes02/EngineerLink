@@ -1,0 +1,4 @@
+githubClientId = 820cc83a56875cac0e7f
+githubSecret = dba7d5b8e1de837bd3fbf97609d0568bc9dd110e
+jwtSecret = mysecrettoken
+mongoURl = mongodb+srv://Sam123:Sam123@devcluster0.dv23o.mongodb.net/<dbname>?retryWrites=true&w=majority
